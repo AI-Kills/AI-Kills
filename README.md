@@ -10,7 +10,7 @@ I help engineering and product teams put AI into production: RAG, agents and MCP
 - **The cloud layer underneath:** Cloud Run and GKE, Terraform, CI/CD with Workload Identity Federation, monitoring.
 
 ## Experience
-- More than two years running Google Cloud for large enterprise clients: landing zones, GKE, CI/CD, centralised monitoring.
+- More than two years running Google Cloud for enterprise clients: landing zones, GKE, CI/CD, centralised monitoring.
 - Production AI work for enterprise clients (agentic SQL over insurance data, RAG over legal documents). These engagements are confidential, so the code is not public.
 
 ## Stack
