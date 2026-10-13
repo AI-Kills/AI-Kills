@@ -1,4 +1,4 @@
-# Alfredo Ingraldo · AI and Google Cloud Engineer
+# Alfredo Ingraldo · Full Stack AI Engineer
 
 I help engineering and product teams put AI into production: RAG, agents and MCP integrations, on Google Cloud (and Azure). Based in Italy, working with EU and remote teams through [AISOFT](https://aisoft.sh).
 
